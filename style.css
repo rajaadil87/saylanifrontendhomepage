@@ -1,0 +1,400 @@
+/* @media only screen and (max-width:600PX){
+
+} */
+/* body{
+    
+    overflow-x: hidden;
+    overflow-y: hidden;
+} */
+
+.container{
+    background-color: rgb(106, 106, 226);
+    height: 40px;
+    padding-top: 20px;
+       
+}
+
+.logo{
+    width: 360px;
+    float: left;
+}
+img.logo-fb{
+    width: 20px;
+    padding: 10px;
+    position: relative;
+    left: 80px;
+    
+}
+.para{
+    width: 950px;
+    color: white;
+    position: relative;
+    bottom: 10px;
+
+}
+.button{ 
+    width: 300px;
+    position: relative;
+    left: 960px;
+    bottom: 50px;  
+}
+.main{
+    background-color: rgb(226, 225, 223);
+    height: 80px;
+}
+
+.saylani-logo{
+       width: 200px;
+    height: 80px;
+     position: relative;
+    left: 90px;
+}
+
+.menu{
+    /* background-color: rgb(226, 225, 223); */
+    display: inline;
+    max-width: 960px;
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+    padding: 20px;
+    background-color:rgb(42, 42, 190);
+    text-decoration: none;
+    border-radius: 40px;
+    color: white;
+    font-size: 10px;
+}
+.marquee-info{
+    background-color: rgb(42, 42, 190);
+    width: 960px;
+    color: white;
+    position: relative;
+    left: 150px;
+}
+
+
+.first-letter{
+    color: blue;
+    float: left;
+    position: relative;
+    left: 540px;
+   
+}
+.second-letter{
+    color: chartreuse;
+    position: relative;
+    left: 540px;
+    top: 22px; 
+}
+.second-logo{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 540px;
+    border-radius: 50px;
+}
+.intro{
+    background-color: rgb(226, 225, 223);
+   max-width: 100%;
+   text-align: justify; 
+   margin-left: 180px;
+   margin-right: 180px;
+   line-height: 30px;
+   font-size: 18px;
+}
+.all{
+    background-color: darkblue;  
+    text-align: center;  
+    height: 300PX;
+  
+}
+ .food{
+    width: 160px;
+    position: relative;
+    top: 30px; 
+    left: 140PX;
+    height: 10px;
+ 
+}
+
+.food-number{
+    color: white;
+    font-size: 18px;
+    font-weight: 600PX;
+    
+}
+.span-one{
+    color: green;
+    display: inline;
+}
+
+ .familyadoption{
+    width: 160px;
+    position: relative;
+    left: 420px;
+    /* bottom: 130px;    */
+    top: 30px;
+    
+}
+
+.medical{
+   
+    width: 160px;
+    position: relative;
+    left: 700px;
+    /* bottom: 300px; */
+    height: 5px;
+    bottom: 140px;
+}
+
+.education{
+    
+    width: 160px;
+    position: relative;
+    left: 980px;
+    /* bottom: 430px; */
+    height: 5px;
+    bottom: 140px;
+    
+}
+.word{
+    background-color: rgb(226, 225, 223);
+    padding-top: 100px;
+    font-size: 30px;
+}
+.word-two{
+    color: green;
+}
+.word-one{
+    color: blue;
+}
+.word-logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    position: relative;
+    bottom: 20px;
+}
+.boxes{
+    background-color: rgb(226, 225, 223);
+    color: blue;
+    height: 400px;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+.first-box{
+    background-color: white;
+    width: 280px;
+    height: 150px;
+    float: left;
+    margin-left: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px; 
+    box-shadow: 10px 20px 20px #a5a5a5;  
+}
+.second-box{
+    background-color: white;
+    /* border: blue solid 5px; */
+    width: 280px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 20px 20px #a5a5a5;
+}
+.third-box{
+    background-color: white;
+    /* border: blue solid 5px; */
+    width: 280px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 20px 20px #a5a5a5;
+}
+.upcoming-projects{
+    width: 580px;
+    height: 300px;
+    color: rgb(70, 70, 228);
+    position: relative;
+    left: 220px;
+    
+}
+.title{
+    width: 400px;
+    height: 40px;
+    color: rgb(70, 70, 228);
+     font-size: 10px;
+     text-align: left;
+     position: relative;
+    left: 20px;    
+}
+.title-one{
+    background-color: rgb(230, 230, 231);
+    width: 200px;
+    height: 80px;
+    color: rgb(70, 70, 228);
+    font-size: 10px;
+    position: relative;
+    left: 20px;   
+    top: 20px;
+}
+.title-two{
+    background-color: rgb(230, 230, 231);
+    width: 200px;
+    height: 80px;
+    color: rgb(70, 70, 228);
+    font-size: 10px;
+    position: relative;
+    left: 320px;
+    bottom: 60px;    
+}
+.title-three{
+    background-color: rgb(230, 230, 231);
+    width: 200px;
+    height: 80px;
+    color: rgb(70, 70, 228);
+    font-size: 10px;
+    margin-left: 20px;
+    position: relative;
+    bottom: 50px;
+            
+}
+.title-four{
+    background-color: rgb(230, 230, 231);
+    width: 200px;
+    height: 80px;
+    color: rgb(70, 70, 228);
+    font-size: 10px;
+    margin-left: 20px;
+    position: relative;
+    left: 300px;
+    bottom: 130px;      
+}
+.news{
+    /* border: darkgoldenrod solid 5px; */
+    color: rgb(70, 70, 228);
+    font-size: 20px;
+    width: 460px;
+    position: relative;
+    bottom: 380px;
+    left:470px ;
+}
+.rotation{
+    border: thistle thin 10px;
+    position: relative;
+    left: 450px;
+    bottom: 400px;
+}
+
+.fst-word{
+    font-size: 20px;
+    position: relative;
+    bottom: 330px;
+}
+.sed-word{
+    color: rgb(4, 80, 27);
+    font-size: 20px;
+    position: relative;
+    left: 85px;
+    bottom: 367px;
+}
+.sed-logo{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    bottom: 380px;
+    left: 40px;
+    border-radius: 50px;
+}
+.images-all{
+    position: relative;
+    bottom: 350px;
+    transition: ease .5s;
+ 
+}
+.saylani-images:hover{  
+    transform: scale(1.5);
+    opacity: 1;
+       
+}
+
+ .adres{
+    color: rgb(209, 206, 206);
+    background-color: rgb(46, 44, 44);
+    width: 560px;
+    height: 400px;
+    position: relative;
+    bottom: 300px;
+    right: 230px;
+  
+}
+.adres-main{
+    text-align: left;
+    line-height: 30px;
+    padding-top: 100px;
+    padding-left: 200px;
+    /* position: relative;
+    top: 200px;
+    right: 220px;
+    bottom: 280px; */
+
+}
+.links-main{
+  
+    color:rgb(209, 206, 206);
+    background-color: rgb(46, 44, 44);
+    width: 200px;
+    height: 400px;
+    position: relative;
+    bottom: 710px;
+    left: 330px;
+
+}
+.links{
+    font-size: 15px;
+    padding-top: 100px;
+}
+.contect-us{
+    
+    color:rgb(209, 206, 206);
+    background-color: rgb(46, 44, 44);
+    position: relative;
+    bottom: 1126px;
+    left: 530px;
+    width: 580px;
+    height: 400px;
+    
+     
+}
+.contect-with-us{
+    padding-top: 90px;  
+   
+}
+/* .end-line{
+    background-color: rgb(79, 79, 221);
+     border: green solid 5px;
+     width: 960px;
+    height: 60px;
+    padding-left: 380px;
+    position: relative;
+    bottom: 280px;
+    right: 220px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
